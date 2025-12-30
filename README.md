@@ -2,7 +2,7 @@
 
 ### Backend Developer | Backend & Infrastructure
 
-<img src="https://downloader.disk.yandex.ru/preview/861857c349048f36f7d56fd74ae285b8758133a3fca99bd328e28ad73d8bf589/69538bd6/YQXrJ4qKrzqS8DxzOpWRIB0Hd1bmUOZbxQLJUdOQaWHw5-I9wpUgEURMCnIis9X_J-S9M9rNnlofYbRCcA-Rvw%3D%3D?uid=0&filename=photo_2023-12-17_23-30-24.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=1920x911" width="200" alt="Profile Photo">
+<img src="./images/photo_2023-12-17_23-30-24.jpg" width="200" alt="Profile Photo">
 
 ---
 
